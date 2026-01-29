@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+websockets
+pybullet
+numpy
+scipy
+yt-dlp
+opencv-python-headless
+python-multipart
+pillow
+h5py
+scikit-learn
+gdown
+google-api-python-client==2.150.0
+scrapetube
+pandas
+matplotlib
