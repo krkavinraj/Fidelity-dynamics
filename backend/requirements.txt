@@ -2,6 +2,7 @@ fastapi
 uvicorn
 websockets
 pybullet
+ultralytics
 numpy
 scipy
 yt-dlp
